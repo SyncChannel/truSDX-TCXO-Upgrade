@@ -1,0 +1,1 @@
+This is the original version of the TCXO upgrade PCB. I recommend using Rev B instead.
