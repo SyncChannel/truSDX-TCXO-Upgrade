@@ -1,0 +1,3 @@
+This is the newest version of the TCXO upgrade PCB.
+
+I recommend ordering this as a 32mil (0.8mm) thin PCB. The OSHPark 2 Layer 2oz 0.8mm Service is perfect.
